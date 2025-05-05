@@ -17,7 +17,6 @@ Administrateurs :
 - Assistance utilisateurs et historique des transactions
 4. Structure du projet
 - controleur : logique de contrôle, utilitaires JOptionPane
-- fonctionaliter : logique métier (non encore détaillée)
 - View : interface utilisateur Swing
 - bin : classes compilées
 - Ouf.jar : application exécutable
