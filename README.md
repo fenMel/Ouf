@@ -37,9 +37,9 @@ Livrables :
 
 les utilisateru pour se connecter :
  1. ROLE :"user"
-   login :jdoe
-   Password : password
+   -login :jdoe
+  - Password :password
 2. ROLE :"admin"
-   login :asmith
-   Password : adminpass
+  - login :asmith
+   -Password :adminpass
        
